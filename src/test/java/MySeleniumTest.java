@@ -205,6 +205,7 @@ public class MySeleniumTest {
 //
 //// asercja: sprawdzenie, czy wyświetlony komunikat o pustym koszyku jest taki sam jak oczekiwany
 }
+//to mój pierwszy commit
 
 
 
